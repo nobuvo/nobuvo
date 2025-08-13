@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hallo, ich bin Nobu 👋
 
-<!--
-**Nobusatoru/Nobusatoru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich bin **Discord Developer** und arbeite an verschiedenen spannenden Projekten wie:
 
-Here are some ideas to get you started:
+- [Crosmo.de](https://crosmo.de)
+- [Infyno.de](https://infyno.de)
+- und viele weitere spannende Projekte 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+Ich arbeite hauptsächlich mit:  
+
+- **Python** 🐍  
+- **HTML / CSS** 🌐  
+- **JavaScript** ⚡  
+
+---
+
+## 💻 Discord Status
+Hier könnt ihr in Echtzeit sehen, was ich auf Discord mache:  
+https://nobusatoru.de/profil
+
+---
+
+## 🔗 Projekte
+Hier ein paar meiner Projekte:  
+
+| Projekt       | Beschreibung                      | Link                        |
+|---------------|----------------------------------|----------------------------|
+| Crosmo.de     | Ein cooles Discord-Projekt       | [Website](https://crosmo.de) |
+| Infyno.de     | Ein weiteres spannendes Projekt  | [Website](https://infyno.de) |
+
+---
+
+## 📫 Kontakt
+Wenn ihr mit mir in Kontakt treten wollt, könnt ihr mich auf Discord erreichen: **Nobusatoru**
