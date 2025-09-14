@@ -34,4 +34,4 @@ Hier ein paar meiner Projekte:
 ---
 
 ## 📫 Kontakt
-Wenn ihr mit mir in Kontakt treten wollt, könnt ihr mich auf Discord erreichen: **Nobusatoru**
+Wenn ihr mit mir in Kontakt treten wollt, könnt ihr mich auf Discord erreichen: **Nobuqu**
